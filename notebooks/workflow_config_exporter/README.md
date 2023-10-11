@@ -19,7 +19,7 @@ This notebook leverages the Databricks API to efficiently retrieve all the job c
 
 ### 2. Parse Information 🧩
 
-Once the job configurations are in your possession, this notebook simplifies the process by parsing and meticulously organizing the relevant information. The parsed data typically encompasses essential details such as job names, schedules, and command specifics.
+Once the job configurations are in your possession, this notebook simplifies the process by parsing and meticulously organizing the relevant information. The parsed data typically encompasses essential details such as job names, schedules, and command specifics. Also removes unecessary fields.
 
 ### 3. Save Configuration to JSON 💾
 
