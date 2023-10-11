@@ -39,5 +39,4 @@ In this this we parse the obtained config info. The main thing to keep in mind i
 
 We later save the config to file, if you have a mounted s3 bucket or an azure data lake storage you can direcly specify the path as dbutils will take care of the rest. If you are running the notebook locally then you will need to change the code and use python's inbuilt `open` function to get the task done.
 
----
-Enjoy the remarkable advantages of this notebook, which will greatly enhance your ability to manage, analyze, and maintain control over your Databricks workspace jobs.  
+--- 
