@@ -2,7 +2,7 @@
 
 ## Introduction 📜
 
-This comprehensive notebook is thoughtfully designed to assist you in effectively managing your Databricks workspace jobs. It offers a step-by-step guide for fetching job configurations from your current Databricks workspace, parsing and organizing this information, and saving it to a JSON file. The utility of this notebook becomes even more evident when you need to replicate existing job configurations or maintain a detailed version history of your jobs.
+This notebook is used to fetch the workflow config from a workspace and then write it to disk thus helping one save a backup of their workflow config information.
 
 ## Use Cases 🌟
 
