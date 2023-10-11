@@ -41,6 +41,4 @@ The versatility of this notebook is evident in a variety of scenarios:
 
 Enjoy the remarkable advantages of this notebook, which will greatly enhance your ability to manage, analyze, and maintain control over your Databricks workspace jobs.
 
----
 
-*Please note that the code for this notebook is not provided here, but you can refer to your existing notebook for detailed implementation instructions.* 📝
