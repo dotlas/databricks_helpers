@@ -16,21 +16,9 @@ The Delta Lake Table Metadata Updater is a helpful tool with several use cases:
 
 4. **Consistency and Quality**: Ensure consistent and high-quality metadata across your Delta Lake tables, making it easier to maintain and share the data.
 
-## Steps 📊
 
-### 1. Input Pydantic Data Model 📝
-
-Initialize your pydantic data model which inherits from pydantic `BaseModel` where you have declared all the column descriptions and tags.
-
-### 2. Convert the Pydantic data model to a dataframe 🚀
-
-Next we convert the data model into a dataframe containing the relevant fields, making it easier to retrieve the needed data.
-
-
-### 3. Update Delta Lake Table 🔄
-
-Once you are satisfied with the inferred metadata, apply the updates to your Delta Lake table, and it will be enriched with the new descriptions and tags.
 
 
 ---
+See more details in the notebook (ipynb or dbc)
 

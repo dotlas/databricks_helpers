@@ -20,22 +20,7 @@ This notebook is perfect for a range of use cases:
 5. **Troubleshooting**: Quickly identify runs that failed or took longer than expected.
 
 
-## Steps 📊
 
-### 1. Fetch Workflows and Runs 🏃‍♂️
-
-This notebook begins by fetching all the [workflows](https://docs.databricks.com/api/workspace/jobs/list) in your Databricks workspace. It also retrieves information about the [runs](https://docs.databricks.com/api/workspace/runs/list) that have occurred within a specified date range, which is provided by the user.
-
-### 2. Visualizations 📈
-
-The notebook provides three insightful visualizations:
-
-- **First Scheduled Run of All Workflows**: Visualizes the first scheduled run of each workflow since the start date.
-
-- **Scheduled Runs Between Start and End Date**: Shows all scheduled runs that occurred within the specified date range.
-
-- **All Runs Since Start Date with Time Taken**: Displays all runs that have occurred since the start date, plotting them along with their execution time for performance analysis.
-
-With these visualizations, you can gain a comprehensive understanding of your Databricks workflows and runs, helping you make data-driven decisions and optimizations.
 
 ---
+See more details in the notebook (ipynb)
