@@ -32,7 +32,7 @@ Before you begin, ensure you have the following:
 
 ### 1. Fetch Workflows and Runs 🏃‍♂️
 
-This notebook begins by fetching all the workflows in your Databricks workspace. It also retrieves information about the runs that have occurred within a specified date range, which is provided by the user.
+This notebook begins by fetching all the [workflows](https://docs.databricks.com/api/workspace/jobs/list) in your Databricks workspace. It also retrieves information about the [runs](https://docs.databricks.com/api/workspace/runs/list) that have occurred within a specified date range, which is provided by the user.
 
 ### 2. Visualizations 📈
 
