@@ -1,10 +1,10 @@
-# Delta Lake Table Metadata Updater 🚀
+# Update Metadata for Delta Lake using Pydantic Data Models 📑
 
-## Introduction 📜
+## Introduction
 
 Have you ever wanted to enhance the metadata of your Delta Lake tables effortlessly? This notebook provides a streamlined solution for updating your table's column descriptions and tags by leveraging Pydantic data models. By simply providing your data model, this notebook automates the process of enhancing your Delta Lake table's metadata, making it more informative and structured.
 
-## Use Case 🌟
+## Use Case
 
 The Delta Lake Table Metadata Updater is a helpful tool with several use cases:
 
@@ -16,9 +16,5 @@ The Delta Lake Table Metadata Updater is a helpful tool with several use cases:
 
 4. **Consistency and Quality**: Ensure consistent and high-quality metadata across your Delta Lake tables, making it easier to maintain and share the data.
 
-
-
-
 ---
 See more details in the notebook (ipynb or dbc)
-

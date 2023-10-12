@@ -1,25 +1,16 @@
-# Databricks Workspace Job Configuration Exporter 🚀
+# Backup your Databricks Workflows 🗃
 
-## Introduction 📜
+## Introduction
 
-This notebook is used to fetch the workflow config from a workspace and then write it to disk thus helping one save a backup of their workflow config information.
+This notebook is used to fetch the jobs config from a workspace and then write it to disk thus helping one save a backup of their workflow config information. While such a backup can also be created using Terraform or other Infrastructure-as-code providers, this approach provides it using the vanilla JSON of the Databricks REST API.
 
-## Use Cases 🌟
+## Use Cases
 
 Areas where such a notebook may be helpful:
 
-1. **Configuration Replication 🤝**
+1. Backup of workflow config information in case of restoration from Databricks REST API
+2. Version controlling of workflow config information
+3. Auditing and compliance of workflow config information
 
-2. **Version Control 🔄**
-
-3. **Disaster Recovery ☂️**
-
-4. **Collaboration 🤗**
-
-5. **Audit and Compliance 📊**
-
-
-
-
---- 
+---
 See more details in the notebook (ipynb)
