@@ -6,15 +6,13 @@ This notebook is used to update metadata of an existing table in delta lake usin
 
 ## Use Case
 
-The Delta Lake Table Metadata Updater is a helpful tool with several use cases:
+The Delta Lake Table Metadata Updater is a helpful tool with below use cases:
 
-1. **Metadata Enrichment**: Enhance the quality of your data by adding descriptions and tags to your table columns, making it easier for data consumers to understand and use the data.
+1. **Metadata Enrichment**: Enhance the quality of your data by adding descriptions and tags to your table columns.
 
-2. **Data Governance**: Improve data governance by ensuring that your tables are properly documented and labeled with relevant tags.
+2. **Automated Documentation**: Save time and effort by automatically generating metadata based on your Pydantic data models.
 
-3. **Automated Documentation**: Save time and effort by automatically generating metadata based on your Pydantic data models, reducing the need for manual documentation.
-
-4. **Consistency and Quality**: Ensure consistent and high-quality metadata across your Delta Lake tables, making it easier to maintain and share the data.
+3. **Consistency and Quality**: Ensure consistent metadata across your Delta Lake tables.
 
 ---
 See more details in the notebook (ipynb or dbc)
