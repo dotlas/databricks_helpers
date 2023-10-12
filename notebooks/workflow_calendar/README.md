@@ -15,7 +15,7 @@ This notebook is perfect for a range of use cases:
 5. **Troubleshooting**: Quickly identify runs that failed or took longer than expected.
 
 
-<img src="./assets/example_viz.png" height="150" width="500"></img>
+<img src="./assets/example_viz.png" height="500" width="2000"></img>
 
 ---
 
