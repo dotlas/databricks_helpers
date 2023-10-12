@@ -2,7 +2,7 @@
 
 ## Introduction 📜
 
-This notebook is designed to empower you with the capability to extract invaluable insights from your Databricks workspace. By fetching all the workflows and runs in your workspace, you can gain a deeper understanding of the scheduling, execution, and performance of your tasks. Whether you're interested in the first scheduled run, a specific time range, or overall performance, this notebook has got you covered.
+This notebook is designed to visualize aspects related to workflows schdule and their respecrtive runs. By fetching all the workflows and runs in your workspace, you can gain a clear understanding of the scheduling, execution, and performance of your tasks. Whether you're interested in the first scheduled run, a specific time range, or overall performance, this notebook has got you covered.
 
 
 ## Use Cases 🌟
