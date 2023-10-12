@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This notebook is used to update metadata of an existing table in delta lake using the table's pydantic data model. 
+This notebook is used to update metadata of an existing table in delta lake using the table's equivalent pydantic data model. 
 
 ## Use Case
 
