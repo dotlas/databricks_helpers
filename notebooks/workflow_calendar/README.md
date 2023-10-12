@@ -1,5 +1,8 @@
 # Workflow Calendar 📆
-
+<p align="center">
+    <img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621.svg?style=for-the-badge&logo=Databricks&logoColor=white" />
+    <img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75.svg?style=for-the-badge&logo=Plotly&logoColor=white" />
+</p>
 ## Introduction
 
 This notebook is designed to visualize aspects related to workflow schedules and their respective runs. It showcases aspects of scheduling, execution, and duration of your tasks.
@@ -20,4 +23,4 @@ This notebook is useful for the below cases:
 
 ---
 
-See more details in the notebook (ipynb)
+See more details in the notebook (ipynb or dbc)
