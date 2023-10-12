@@ -6,7 +6,7 @@ This notebook is used to fetch the workflow config from a workspace and then wri
 
 ## Use Cases 🌟
 
-The versatility of this notebook is evident in a variety of scenarios:
+Areas where such a notebook may be helpful:
 
 1. **Configuration Replication 🤝**
 
