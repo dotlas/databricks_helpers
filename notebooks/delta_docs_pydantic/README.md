@@ -1,4 +1,9 @@
 # Update Metadata for Delta Lake using Pydantic Data Models 📑
+<p align="left">
+    <img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621.svg?style=for-the-badge&logo=Databricks&logoColor=white" />
+    <img alt="Delta" src="https://img.shields.io/badge/Delta-003366.svg?style=for-the-badge&logo=Delta&logoColor=white" />
+    <img alt="Pydantic" src="https://img.shields.io/badge/Pydantic-E92063.svg?style=for-the-badge&logo=Pydantic&logoColor=white" />
+</p>
 
 ## Introduction
 
