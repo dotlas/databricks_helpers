@@ -1,4 +1,4 @@
-# Workflow Calendar 📆
+<h1>Workflow Calendar 📆</h1>
 <p align="center">
     <img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621.svg?style=for-the-badge&logo=Databricks&logoColor=white" />
     <img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75.svg?style=for-the-badge&logo=Plotly&logoColor=white" />

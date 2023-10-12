@@ -1,4 +1,4 @@
-# Backup your Databricks Workflows 🗃
+<h1 align="center">Backup your Databricks Workflows 🗃</h1>
 <p align="center">
     <img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621.svg?style=for-the-badge&logo=Databricks&logoColor=white" />
 </p>
