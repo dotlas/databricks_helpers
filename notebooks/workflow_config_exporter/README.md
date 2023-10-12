@@ -11,6 +11,7 @@ Areas where such a notebook may be helpful:
 1. Backup of workflow config information in case of restoration from Databricks REST API
 2. Version controlling of workflow config information
 
+---
 <img src="./assets/example_config.png" height="400" width="300"></img>
 ---
 See more details in the notebook (ipynb)
