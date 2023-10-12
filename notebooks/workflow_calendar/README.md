@@ -2,11 +2,11 @@
 
 ## Introduction
 
-This notebook is designed to visualize aspects related to workflow schedules and their respective runs. This allows one to gain a clear understanding of the scheduling, execution, and performance of your tasks. Whether you're interested in the first scheduled run, a specific time range, or overall performance, this notebook has got you covered.
+This notebook is designed to visualize aspects related to workflow schedules and their respective runs. It showcases aspects of scheduling, execution, and duration of your tasks.
 
 ## Use Cases
 
-This notebook is perfect for a range of use cases:
+This notebook is useful for the below cases:
 
 1. **Performance Monitoring**: Keep an eye on how long your runs are taking and identify potential bottlenecks.
 2. **Scheduling Insights**: Understand when your workflows are scheduled and when the first run occurred. Resolve timing conflicts and ensure that your workflows are running as expected.
