@@ -37,3 +37,4 @@ For example, consider the following use-cases:
 | [Postgres Migration](./notebooks/migrate_postgres/README.md) | Migrate a Postgres schema or table to Delta Lake without worrying about the table size overloading cluster memory |
 | [Workspace Jobs Migration](./notebooks/migrate_workspace/README.md) | Migrate Workflows from one Databricks workspace to another |
 | [Job Cluster Update](./notebooks/update_job_cluster/README.md) | Use the Databricks API to mass-update Job and Task configs | 
+| [Workflow Config Exporter](./notebooks/workflow_config_exporter/README.md) | Export existing workflow configuration and save it for future consumption |
