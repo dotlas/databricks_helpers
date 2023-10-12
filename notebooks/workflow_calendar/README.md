@@ -1,4 +1,4 @@
-# Databricks Workflow Run Analysis 🚀
+# Databricks Workflow Visualization 🚀
 
 ## Introduction 📜
 
