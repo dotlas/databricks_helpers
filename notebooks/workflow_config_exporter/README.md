@@ -23,3 +23,4 @@ Areas where such a notebook may be helpful:
 
 
 --- 
+See more details in the notebook (ipynb)
