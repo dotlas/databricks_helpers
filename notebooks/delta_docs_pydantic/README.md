@@ -2,6 +2,7 @@
 <p align="center">
     <img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621.svg?style=for-the-badge&logo=Databricks&logoColor=white" />
     <img alt="Delta" src="https://img.shields.io/badge/Delta-003366.svg?style=for-the-badge&logo=Delta&logoColor=white" />
+    <br><br>
     <img alt="Pydantic" src="https://img.shields.io/badge/Pydantic-E92063.svg?style=for-the-badge&logo=Pydantic&logoColor=white" />
 </p>
 
