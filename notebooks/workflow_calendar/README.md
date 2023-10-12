@@ -19,14 +19,6 @@ This notebook is perfect for a range of use cases:
 
 5. **Troubleshooting**: Quickly identify runs that failed or took longer than expected.
 
-## Prerequisites 🛠️
-
-Before you begin, ensure you have the following:
-
-- Access to a Databricks workspace.
-- Appropriate permissions to access workflows and run information.
-- Knowledge of the date range for the analysis.
-
 
 ## Steps 📊
 

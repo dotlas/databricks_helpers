@@ -18,12 +18,6 @@ Areas where such a notebook may be helpful:
 
 5. **Audit and Compliance 📊**
 
-## Prerequisites 🛠️
-
-To make the most of this notebook, it's important to ensure the following prerequisites are in place:
-
-- Access to a Databricks workspace ([Access Token](https://docs.databricks.com/en/administration-guide/access-control/tokens.html)).
-- Appropriate permissions for listing and viewing job configurations.
 
 ## Steps 📊
 
