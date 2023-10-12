@@ -14,6 +14,9 @@ This notebook is perfect for a range of use cases:
 4. **Resource Allocation**: Optimize your resource allocation based on past performance.
 5. **Troubleshooting**: Quickly identify runs that failed or took longer than expected.
 
+
+<img src="./assets/example_viz.png" height="150" width="500"></img>
+
 ---
 
 See more details in the notebook (ipynb)
