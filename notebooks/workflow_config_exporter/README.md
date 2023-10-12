@@ -8,15 +8,15 @@ This notebook is used to fetch the workflow config from a workspace and then wri
 
 The versatility of this notebook is evident in a variety of scenarios:
 
-1. **Configuration Replication 🤝**: In cases where there's a need to create new jobs mirroring the configuration of existing ones, this notebook streamlines the process by providing all necessary details in a well-structured format.
+1. **Configuration Replication 🤝**
 
-2. **Version Control 🔄**: By keeping an organized record of job configurations in JSON files, you establish an effective version control system and gain the ability to closely track changes and historical trends.
+2. **Version Control 🔄**
 
-3. **Disaster Recovery ☂️**: In the unfortunate event of job configuration loss, workspace migration, or system failures, the saved JSON files act as a reliable resource for rapid and precise job re-creation.
+3. **Disaster Recovery ☂️**
 
-4. **Collaboration 🤗**: Easily share job configurations with your team members, fostering a streamlined and efficient approach to understanding, replicating, and collaborating on job settings.
+4. **Collaboration 🤗**
 
-5. **Audit and Compliance 📊**: Maintain a comprehensive and auditable history of job configurations to meet compliance and regulatory requirements, demonstrating a commitment to transparency and good governance.
+5. **Audit and Compliance 📊**
 
 ## Prerequisites 🛠️
 
@@ -33,7 +33,7 @@ We fetch all the workflows present in your workspace, each fetched workflow conf
 
 ### 2. Parse Information 🧩
 
-In this this we parse the obtained config info. The main thing to keep in mind is that the cluster config contains some fields which are populated after the cluster is initialized but will be fetched anyway from step 1, we need to remove this field or else when we use the same config to create the workflow later it will throw an error. You can also add any custom logic here. For example: You can include webhook notification ID to be associated with a workflow you like, You can also associate an existing all-purpose-compute to a workflow that you want, etc.  
+In this step we parse the obtained config info. The main thing to keep in mind is that the cluster config contains some fields which are populated after the cluster is initialized but will be fetched anyway from step 1, we need to remove this field or else when we use the same config to create the workflow later it will throw an error. You can also add any custom logic here. For example: You can include webhook notification ID to be associated with a workflow you like, You can also associate an existing all-purpose-compute to a workflow that you want, etc.  
 
 ### 3. Save Configuration to JSON 💾
 
