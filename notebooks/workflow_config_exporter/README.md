@@ -19,7 +19,6 @@ Areas where such a notebook may be helpful:
 5. **Audit and Compliance 📊**
 
 
-## Steps 📊
 
 
 --- 
