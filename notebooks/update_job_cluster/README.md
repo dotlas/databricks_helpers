@@ -5,7 +5,7 @@
 
 ## Introduction
 
-This notebook is used to update clusters and workflows in current workspace. It works by fetching the current cluster/workflow configs, performing some parsing and finally updating the same in current workspace.
+This notebook is used to update clusters and workflows in the current workspace. It works by fetching the current cluster / workflow configs, performing some parsing and finally updating the same in current workspace.
 
 ## Use Cases
 
