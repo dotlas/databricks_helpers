@@ -16,4 +16,4 @@ A running cluster on a Databricks workspace is required to interface any outside
 
 <img src="./assets/databricks_sql_python.png" height="150" width="500"></img>
 
-See more details in the notebook (`ipynb` or `dbc`)
+See more details in the notebook (`ipynb`)

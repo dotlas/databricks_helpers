@@ -7,11 +7,13 @@
 
 ## Introduction
 
-This notebook is used to update metadata of an existing table in delta lake using the table's equivalent pydantic data model. 
+This notebook is used to update metadata of an existing table in Delta Lake using the table's equivalent Pydantic data model. This is especially useful if you have data from an application that flows into Delta and happens to already have dataclasses or datamodels that define the schema of raw data.
 
-## Use Case
+> Note that updating Delta table metadata is highly dependent on the Pydantic models already being pre-defined with `tags` and `description` per `Field`
 
-The Delta Lake Table Metadata Updater is a helpful tool with below use cases:
+## Use Cases
+
+The Delta Lake Table metadata updater is a helpful tool with below use cases:
 
 1. **Metadata Enrichment**: Enhance the quality of your data by adding descriptions and tags to your table columns.
 
