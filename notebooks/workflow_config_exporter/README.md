@@ -17,4 +17,4 @@ Areas where such a notebook may be helpful:
 ---
 <img src="./assets/example_config.png" height="400" width="300"></img>
 ---
-See more details in the notebook (ipynb or dbc)
+See more details in the notebook (ipynb)

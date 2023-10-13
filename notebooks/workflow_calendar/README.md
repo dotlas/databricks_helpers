@@ -24,4 +24,4 @@ This notebook is useful for the below cases:
 
 ---
 
-See more details in the notebook
+See more details in the notebook (ipynb)
