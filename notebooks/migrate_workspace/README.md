@@ -15,4 +15,4 @@ Areas where such a notebook may be helpful:
 2. **Creating a new workspace from scratch**: The notebook could be used to quickly create a new workspace with the same clusters and workflows as an existing workspace. This could be useful for creating a development or staging environment, or for creating a new workspace for a specific project or team.
 
 ---
-See more details in the notebook (ipynb or dbc)
+See more details in the notebook (ipynb)

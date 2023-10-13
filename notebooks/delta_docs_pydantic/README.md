@@ -22,4 +22,4 @@ The Delta Lake Table metadata updater is a helpful tool with below use cases:
 3. **Consistency and Quality**: Ensure consistent metadata across your Delta Lake tables.
 
 ---
-See more details in the notebook (ipynb or dbc)
+See more details in the notebook (ipynb)
