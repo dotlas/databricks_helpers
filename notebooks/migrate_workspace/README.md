@@ -5,7 +5,7 @@
 
 ## Introduction
 
-This notebook is used to migrate the clusters and workflows from one workspace to another. It works by fetching the current cluster/workflow configs and then using it to create the same in the new workspace.
+This notebook is used to migrate clusters and workflows from one workspace to another. It works by fetching the current cluster/workflow configs and then using it to create the same in the new workspace.
 
 ## Use Cases
 
