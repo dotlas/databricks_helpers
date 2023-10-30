@@ -35,3 +35,9 @@ For example, consider the following use-cases:
 | [Workspace Jobs Migration](./notebooks/migrate_workspace/README.md) | Migrate Workflows from one Databricks workspace to another |
 | [Job Cluster Update](./notebooks/update_job_cluster/README.md) | Use the Databricks API to mass-update Job and Task configs |
 | [Workflow Config Exporter](./notebooks/workflow_config_exporter/README.md) | Export existing workflow configuration and save it for future consumption |
+
+## Discussions
+
+* Check out the launch discussion on this [LinkedIn Release Post](https://www.linkedin.com/feed/update/urn:li:activity:7119179773444030465), with a highlight from Databricks CEO, [Ali Ghodsi](https://www.linkedin.com/in/alighodsi).
+* Feel free to raise an issue on this repository to start a discussion about new features, bug fixes or enhancements.
+* See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines when adding or modifying notebooks in this repository.
