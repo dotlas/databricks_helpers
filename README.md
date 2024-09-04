@@ -29,6 +29,7 @@ For example, consider the following use-cases:
 
 | Notebook | Description |
 | --- | --- |
+| [Databricks Daily Cost to Slack](./notebooks/databricks_daily_cost_slack) | Schedule a daily cost summary of Databricks bills to notify you on Slack. |
 | [Workflow Calendar](./notebooks/workflow_calendar/README.md) | Visualize scheduled Jobs on a calendar, eyeball conflicts and view historic runs as a [Gantt](https://en.wikipedia.org/wiki/Gantt_chart) chart |
 | [Delta Docs with Pydantic](./notebooks/delta_docs_pydantic/README.md) | If you have pydantic models with fields containing `description` and `tags` that are used as data models, transfer these field descriptions to Delta lake columns as comments and tags. |
 | [Pandas to Delta](./notebooks/pandas_delta/README.md) | Use [databricks-sql-python](https://github.com/databricks/databricks-sql-python/) and [SQLAlchemy](https://pypi.org/project/sqlalchemy/) to upload a Pandas DataFrame to Delta Lake from outside a Databricks environment |
