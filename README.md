@@ -36,6 +36,7 @@ For example, consider the following use-cases:
 | [Workspace Jobs Migration](./notebooks/migrate_workspace/README.md) | Migrate Workflows from one Databricks workspace to another |
 | [Job Cluster Update](./notebooks/update_job_cluster/README.md) | Use the Databricks API to mass-update Job and Task configs |
 | [Workflow Config Exporter](./notebooks/workflow_config_exporter/README.md) | Export existing workflow configuration and save it for future consumption |
+| [Workflow Schedule Semaphore](./notebooks/databricks_workflow_semaphore/README.md) | Pause/Unpause all workflows' schedules with a certain keyword |
 
 ## Discussions
 
