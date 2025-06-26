@@ -37,6 +37,7 @@ For example, consider the following use-cases:
 | [Job Cluster Update](./notebooks/update_job_cluster/README.md) | Use the Databricks API to mass-update Job and Task configs |
 | [Workflow Config Exporter](./notebooks/workflow_config_exporter/README.md) | Export existing workflow configuration and save it for future consumption |
 | [Workflow Schedule Semaphore](./notebooks/databricks_workflow_semaphore/README.md) | Pause/Unpause all workflows' schedules with a certain keyword |
+| [Delta Table Staleness Monitor](./notebooks/delta_table_staleness_monitor/README.md) | Automatically identify, notify on, and clean up stale Delta Lake tables according to configurable business rules. |
 
 ## Discussions
 
